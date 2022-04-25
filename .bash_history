@@ -51,3 +51,10 @@ git status
 git commit -m "fifth commit" file5
 clean
 git log
+git branch
+ll
+touch file6
+git add .
+git commit -m "branch1 commits' .
+
+
