@@ -35,3 +35,19 @@ git commit -m "third commit" .
 git status
 git log
 clear
+yum install git -y
+touch file1
+git add .
+git commit -m "first commit" .
+git status
+git log
+clear
+touch file5
+ll
+vim file5
+cat file5
+git add file5
+git status
+git commit -m "fifth commit" file5
+clean
+git log
